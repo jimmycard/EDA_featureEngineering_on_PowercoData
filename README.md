@@ -1,3 +1,4 @@
 # EDA_featureEngineering_on_PowercoData
-Unveiling the Dynamics: Investigating Price Sensitivity's Role in Customer Attrition through a Churn Model for a Power-Generating Company.
+# Unveiling the Dynamics: Investigating Price Sensitivity's Role in Customer Attrition through a Churn Model for a Power-Generating Company.
+
 In order to enhance customer retention for a power-generating company, a comprehensive churn model is crucial. This model would delve into the influence of price sensitivity on customer attrition. By leveraging advanced analytical techniques, such as machine learning algorithms, we will identify patterns and correlations within customer data. This includes analyzing historical pricing information and customer behavior to determine the impact of pricing changes on attrition rates. By incorporating variables such as  usage patterns, and competitor pricing, we will build a robust predictive model. Ultimately, this churn model will empower the power-generating company to make informed decisions regarding pricing strategies and customer retention initiatives, leading to improved customer satisfaction and business growth.
